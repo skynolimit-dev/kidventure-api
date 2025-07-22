@@ -4,87 +4,87 @@
       "name": "Morden Hall Park",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "1 hour by tram, eat at Merton Abbey Mills, visit Maidenhead Aquatics (like an aquarium)",
       "latitude": 51.4008,
       "longitude": -0.1953,
-      "website": null
+      "website": "https://www.nationaltrust.org.uk/visit/london/morden-hall-park"
     },
     {
       "name": "Emmetts Garden",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": "35 mins drive",
       "latitude": 51.2757,
       "longitude": 0.2078,
-      "website": null
+      "website": "https://www.nationaltrust.org.uk/visit/kent/emmetts-garden"
     },
     {
       "name": "Knole deer park",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "40 mins drive, fairly close to Willows",
       "latitude": 51.2756,
       "longitude": 0.2078,
-      "website": null
+      "website": "https://www.nationaltrust.org.uk/visit/kent/knole"
     },
     {
       "name": "Chartwell",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 3,
       "notes": "30 mins drive",
       "latitude": 51.2756,
       "longitude": 0.2078,
-      "website": null
+      "website": "https://www.nationaltrust.org.uk/visit/kent/chartwell"
     },
     {
       "name": "Brighton",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "1.5 hours by tram/train - can visit sea life centre, upside down house, i360, pier",
       "latitude": 50.8225,
       "longitude": -0.1372,
-      "website": null
+      "website": "https://www.visitbrighton.com/"
     },
     {
       "name": "Lego Serpentine Play Pavilion",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5045,
       "longitude": -0.1537,
-      "website": null
+      "website": "https://www.royalparks.org.uk/parks/hyde-park/things-to-see-and-do/serpentine-playground"
     },
     {
       "name": "WWT Wetland Centre",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": null,
       "latitude": 51.4729,
       "longitude": -0.2217,
-      "website": null
+      "website": "https://www.wwt.org.uk/wetland-centres/london"
     },
     {
       "name": "Olympic Park + Swan Pedalos",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5434,
       "longitude": -0.0103,
-      "website": null
+      "website": "https://www.queenelizabetholympicpark.co.uk/"
     },
     {
       "name": "Lee and Stort Boats",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 3,
       "notes": null,
       "latitude": 51.7698,
       "longitude": -0.0742,
@@ -94,47 +94,47 @@
       "name": "Gatton Park",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.2358,
       "longitude": -0.2661,
-      "website": null
+      "website": "https://gattonpark.co.uk/"
     },
     {
       "name": "Hyde Park Diana Memorial Fountain for splashing about",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5045,
       "longitude": -0.1537,
-      "website": null
+      "website": "https://www.royalparks.org.uk/parks/hyde-park/things-to-see-and-do/diana-memorial-fountain"
     },
     {
       "name": "Thames Rockets",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 3,
       "notes": null,
       "latitude": 51.5074,
       "longitude": -0.1278,
-      "website": null
+      "website": "https://thamesrockets.com/"
     },
     {
       "name": "Tower of London experience",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 3,
       "notes": null,
       "latitude": 51.5081,
       "longitude": -0.0759,
-      "website": null
+      "website": "https://www.hrp.org.uk/tower-of-london/"
     },
     {
       "name": "Bubble Planet London",
       "visited": false,
       "rainy_day": true,
-      "cost": null,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5074,
       "longitude": -0.1278,
@@ -144,7 +144,7 @@
       "name": "National Gallery - Roden Centre for Creative Learning",
       "visited": false,
       "rainy_day": true,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5089,
       "longitude": -0.1283,
@@ -153,18 +153,18 @@
     {
       "name": "HMS Belfast",
       "visited": true,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 3,
       "notes": "near Flat Iron, London Bridge",
       "latitude": 51.5066,
       "longitude": -0.0815,
-      "website": null
+      "website": "https://www.iwm.org.uk/visits/hms-belfast"
     },
     {
       "name": "Bubble Planet Wembley",
       "visited": false,
       "rainy_day": true,
-      "cost": null,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5560,
       "longitude": -0.2786,
@@ -174,7 +174,7 @@
       "name": "Paradox Museum London",
       "visited": false,
       "rainy_day": true,
-      "cost": null,
+      "cost": 2,
       "notes": "Knightsbridge",
       "latitude": 51.5014,
       "longitude": -0.1619,
@@ -184,7 +184,7 @@
       "name": "Twist Museum",
       "visited": false,
       "rainy_day": true,
-      "cost": null,
+      "cost": 2,
       "notes": "Oxford Circus",
       "latitude": 51.5154,
       "longitude": -0.1426,
@@ -193,8 +193,8 @@
     {
       "name": "Outernet",
       "visited": true,
-      "rainy_day": false,
-      "cost": "Free",
+      "rainy_day": true,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5155,
       "longitude": -0.1310,
@@ -204,101 +204,101 @@
       "name": "The Lego Store, Leicester Square",
       "visited": true,
       "rainy_day": true,
-      "cost": null,
+      "cost": 1,
       "notes": "Big queues!",
       "latitude": 51.5098,
       "longitude": -0.1301,
-      "website": null
+      "website": "https://www.lego.com/en-gb/stores/store/leicester-square"
     },
     {
       "name": "Young V&A, Bethnal Green",
       "visited": true,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5307,
       "longitude": -0.0565,
-      "website": null
+      "website": "https://www.vam.ac.uk/young"
     },
     {
       "name": "Hackney City Farm",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "near Young V&A",
       "latitude": 51.5461,
       "longitude": -0.0586,
-      "website": null
+      "website": "https://hackneycityfarm.co.uk/"
     },
     {
       "name": "Surrey Docks Farm",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "opposite Canary Wharf",
       "latitude": 51.4926,
       "longitude": -0.0351,
-      "website": null
+      "website": "https://www.surreydocksfarm.org.uk/"
     },
     {
       "name": "Deen City Farm",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "get there on the tram, maybe do Wandle river walk?",
       "latitude": 51.4154,
       "longitude": -0.2066,
-      "website": null
+      "website": "https://www.deencityfarm.co.uk/"
     },
     {
       "name": "South Bank",
       "visited": true,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5045,
       "longitude": -0.1086,
-      "website": null
+      "website": "https://southbanklondon.com/"
     },
     {
       "name": "Tate Modern (Tate Draw)",
       "visited": true,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5076,
       "longitude": -0.0994,
-      "website": null
+      "website": "https://www.tate.org.uk/visit/tate-modern"
     },
     {
       "name": "Singing Lift to library on 5th floor, Royal Festival Hall + Cote/Wagamama",
       "visited": true,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5056,
       "longitude": -0.1160,
-      "website": null
+      "website": "https://www.southbankcentre.co.uk/venues/royal-festival-hall"
     },
     {
       "name": "Southbank Centre, family events",
       "visited": true,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5056,
       "longitude": -0.1160,
-      "website": null
+      "website": "https://www.southbankcentre.co.uk/whats-on/family-kids"
     },
     {
       "name": "Covent Garden, street entertainers",
       "visited": true,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5118,
       "longitude": -0.1226,
-      "website": null
+      "website": "https://www.coventgarden.london/"
     },
     {
       "name": "Vauxhall City Farm + Battersea Power Station",
