@@ -9,6 +9,8 @@
       "latitude": 51.4008,
       "longitude": -0.1953,
       "website": "https://www.nationaltrust.org.uk/visit/london/morden-hall-park"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Emmetts Garden",
@@ -19,6 +21,8 @@
       "latitude": 51.2757,
       "longitude": 0.2078,
       "website": "https://www.nationaltrust.org.uk/visit/kent/emmetts-garden"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Knole deer park",
@@ -29,6 +33,8 @@
       "latitude": 51.2756,
       "longitude": 0.2078,
       "website": "https://www.nationaltrust.org.uk/visit/kent/knole"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Chartwell",
@@ -39,6 +45,8 @@
       "latitude": 51.2756,
       "longitude": 0.2078,
       "website": "https://www.nationaltrust.org.uk/visit/kent/chartwell"
+      ,"category": "Historic House & Gardens",
+      "emoji": "🏰"
     },
     {
       "name": "Brighton",
@@ -49,6 +57,8 @@
       "latitude": 50.8225,
       "longitude": -0.1372,
       "website": "https://www.visitbrighton.com/"
+      ,"category": "Seaside & Attractions",
+      "emoji": "🏖️"
     },
     {
       "name": "Lego Serpentine Play Pavilion",
@@ -59,6 +69,8 @@
       "latitude": 51.5045,
       "longitude": -0.1537,
       "website": "https://www.royalparks.org.uk/parks/hyde-park/things-to-see-and-do/serpentine-playground"
+      ,"category": "Playground",
+      "emoji": "🛝"
     },
     {
       "name": "WWT Wetland Centre",
@@ -69,6 +81,8 @@
       "latitude": 51.4729,
       "longitude": -0.2217,
       "website": "https://www.wwt.org.uk/wetland-centres/london"
+      ,"category": "Nature Reserve",
+      "emoji": "🦆"
     },
     {
       "name": "Olympic Park + Swan Pedalos",
@@ -79,6 +93,8 @@
       "latitude": 51.5434,
       "longitude": -0.0103,
       "website": "https://www.queenelizabetholympicpark.co.uk/"
+      ,"category": "Park & Activities",
+      "emoji": "🚣"
     },
     {
       "name": "Lee and Stort Boats",
@@ -89,6 +105,8 @@
       "latitude": 51.7698,
       "longitude": -0.0742,
       "website": "https://www.leeandstortboats.co.uk/overview"
+      ,"category": "Boat Trip",
+      "emoji": "🛥️"
     },
     {
       "name": "Gatton Park",
@@ -99,6 +117,8 @@
       "latitude": 51.2358,
       "longitude": -0.2661,
       "website": "https://gattonpark.co.uk/"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Hyde Park Diana Memorial Fountain for splashing about",
@@ -109,6 +129,8 @@
       "latitude": 51.5045,
       "longitude": -0.1537,
       "website": "https://www.royalparks.org.uk/parks/hyde-park/things-to-see-and-do/diana-memorial-fountain"
+      ,"category": "Fountain & Park",
+      "emoji": "⛲"
     },
     {
       "name": "Thames Rockets",
@@ -119,6 +141,8 @@
       "latitude": 51.5074,
       "longitude": -0.1278,
       "website": "https://thamesrockets.com/"
+      ,"category": "Boat Trip",
+      "emoji": "🛥️"
     },
     {
       "name": "Tower of London experience",
@@ -129,6 +153,8 @@
       "latitude": 51.5081,
       "longitude": -0.0759,
       "website": "https://www.hrp.org.uk/tower-of-london/"
+      ,"category": "Historic Castle",
+      "emoji": "🏰"
     },
     {
       "name": "Bubble Planet London",
@@ -139,6 +165,8 @@
       "latitude": 51.5074,
       "longitude": -0.1278,
       "website": "https://bubble-planet.com/london/"
+      ,"category": "Immersive Experience",
+      "emoji": "🫧"
     },
     {
       "name": "National Gallery - Roden Centre for Creative Learning",
@@ -149,6 +177,8 @@
       "latitude": 51.5089,
       "longitude": -0.1283,
       "website": "https://www.nationalgallery.org.uk/learning/roden-centre-for-creative-learning"
+      ,"category": "Art Gallery",
+      "emoji": "🖼️"
     },
     {
       "name": "HMS Belfast",
@@ -159,6 +189,8 @@
       "latitude": 51.5066,
       "longitude": -0.0815,
       "website": "https://www.iwm.org.uk/visits/hms-belfast"
+      ,"category": "Museum Ship",
+      "emoji": "🚢"
     },
     {
       "name": "Bubble Planet Wembley",
@@ -169,6 +201,8 @@
       "latitude": 51.5560,
       "longitude": -0.2786,
       "website": "https://bubble-planet.com/"
+      ,"category": "Immersive Experience",
+      "emoji": "🫧"
     },
     {
       "name": "Paradox Museum London",
@@ -179,6 +213,8 @@
       "latitude": 51.5014,
       "longitude": -0.1619,
       "website": "https://paradoxmuseumlondon.com/"
+      ,"category": "Museum",
+      "emoji": "🏛️"
     },
     {
       "name": "Twist Museum",
@@ -189,6 +225,8 @@
       "latitude": 51.5154,
       "longitude": -0.1426,
       "website": "https://twistmuseum.com/"
+      ,"category": "Museum",
+      "emoji": "🏛️"
     },
     {
       "name": "Outernet",
@@ -199,6 +237,8 @@
       "latitude": 51.5155,
       "longitude": -0.1310,
       "website": "https://www.outernet.com/"
+      ,"category": "Immersive Experience",
+      "emoji": "🫧"
     },
     {
       "name": "The Lego Store, Leicester Square",
@@ -209,6 +249,8 @@
       "latitude": 51.5098,
       "longitude": -0.1301,
       "website": "https://www.lego.com/en-gb/stores/store/leicester-square"
+      ,"category": "Shop",
+      "emoji": "🛍️"
     },
     {
       "name": "Young V&A, Bethnal Green",
@@ -219,6 +261,8 @@
       "latitude": 51.5307,
       "longitude": -0.0565,
       "website": "https://www.vam.ac.uk/young"
+      ,"category": "Museum",
+      "emoji": "🏛️"
     },
     {
       "name": "Hackney City Farm",
@@ -229,6 +273,8 @@
       "latitude": 51.5461,
       "longitude": -0.0586,
       "website": "https://hackneycityfarm.co.uk/"
+      ,"category": "Farm",
+      "emoji": "🐄"
     },
     {
       "name": "Surrey Docks Farm",
@@ -239,6 +285,8 @@
       "latitude": 51.4926,
       "longitude": -0.0351,
       "website": "https://www.surreydocksfarm.org.uk/"
+      ,"category": "Farm",
+      "emoji": "🐄"
     },
     {
       "name": "Deen City Farm",
@@ -249,6 +297,8 @@
       "latitude": 51.4154,
       "longitude": -0.2066,
       "website": "https://www.deencityfarm.co.uk/"
+      ,"category": "Farm",
+      "emoji": "🐄"
     },
     {
       "name": "South Bank",
@@ -259,6 +309,8 @@
       "latitude": 51.5045,
       "longitude": -0.1086,
       "website": "https://southbanklondon.com/"
+      ,"category": "Riverside & Attractions",
+      "emoji": "🌉"
     },
     {
       "name": "Tate Modern (Tate Draw)",
@@ -269,6 +321,8 @@
       "latitude": 51.5076,
       "longitude": -0.0994,
       "website": "https://www.tate.org.uk/visit/tate-modern"
+      ,"category": "Art Gallery",
+      "emoji": "🖼️"
     },
     {
       "name": "Singing Lift to library on 5th floor, Royal Festival Hall + Cote/Wagamama",
@@ -279,6 +333,8 @@
       "latitude": 51.5056,
       "longitude": -0.1160,
       "website": "https://www.southbankcentre.co.uk/venues/royal-festival-hall"
+      ,"category": "Library & Venue",
+      "emoji": "📚"
     },
     {
       "name": "Southbank Centre, family events",
@@ -289,6 +345,8 @@
       "latitude": 51.5056,
       "longitude": -0.1160,
       "website": "https://www.southbankcentre.co.uk/whats-on/family-kids"
+      ,"category": "Venue & Events",
+      "emoji": "🎉"
     },
     {
       "name": "Covent Garden, street entertainers",
@@ -299,6 +357,8 @@
       "latitude": 51.5118,
       "longitude": -0.1226,
       "website": "https://www.coventgarden.london/"
+      ,"category": "Market & Entertainment",
+      "emoji": "🎭"
     },
     {
       "name": "Vauxhall City Farm + Battersea Power Station",
@@ -309,6 +369,8 @@
       "latitude": 51.4729,
       "longitude": -0.1255,
       "website": null
+      ,"category": "Farm & Landmark",
+      "emoji": "🐄"
     },
     {
       "name": "Battersea Park Children's Zoo + Battersea Power Station",
@@ -319,6 +381,8 @@
       "latitude": 51.4719,
       "longitude": -0.1548,
       "website": null
+      ,"category": "Zoo & Landmark",
+      "emoji": "🦁"
     },
     {
       "name": "Battersea Park - lift to top",
@@ -329,6 +393,8 @@
       "latitude": 51.4719,
       "longitude": -0.1548,
       "website": null
+      ,"category": "Park & Landmark",
+      "emoji": "🌳"
     },
     {
       "name": "St James' Park",
@@ -339,6 +405,8 @@
       "latitude": 51.5028,
       "longitude": -0.1347,
       "website": null
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Golden Hinde pirate training",
@@ -348,57 +416,69 @@
       "notes": null,
       "latitude": 51.5069,
       "longitude": -0.0924,
-      "website": null
+      "website": "https://www.goldenhinde.co.uk/"
+      ,"category": "Historic Ship",
+      "emoji": "🚢"
     },
     {
       "name": "Harrods",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 1,
       "notes": null,
       "latitude": 51.4994,
       "longitude": -0.1633,
-      "website": null
+      "website": "https://www.harrods.com/"
+      ,"category": "Shop",
+      "emoji": "🛍️"
     },
     {
       "name": "Natural History Museum",
       "visited": true,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 1,
       "notes": null,
       "latitude": 51.4966,
       "longitude": -0.1764,
-      "website": null
+      "website": "https://www.nhm.ac.uk/"
+      ,"category": "Museum",
+      "emoji": "🏛️"
     },
     {
       "name": "Science Museum",
       "visited": true,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 1,
       "notes": null,
       "latitude": 51.4978,
       "longitude": -0.1744,
-      "website": null
+      "website": "https://www.sciencemuseum.org.uk/"
+      ,"category": "Museum",
+      "emoji": "🏛️"
     },
     {
       "name": "London Transport Museum",
       "visited": true,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5118,
       "longitude": -0.1226,
-      "website": null
+      "website": "https://www.ltmuseum.co.uk/"
+      ,"category": "Museum",
+      "emoji": "🏛️"
     },
     {
       "name": "Richmond Park - see the deer",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.4505,
       "longitude": -0.2581,
-      "website": null
+      "website": "https://www.royalparks.org.uk/parks/richmond-park"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Spitalfields City Farm",
@@ -409,6 +489,8 @@
       "latitude": 51.5188,
       "longitude": -0.0731,
       "website": null
+      ,"category": "Farm",
+      "emoji": "🐄"
     },
     {
       "name": "Tower Bridge - watch it open",
@@ -419,6 +501,8 @@
       "latitude": 51.5055,
       "longitude": -0.0754,
       "website": "https://www.towerbridge.org.uk/lift-times"
+      ,"category": "Landmark & Bridge",
+      "emoji": "🌉"
     },
     {
       "name": "Tower Bridge experience",
@@ -429,6 +513,8 @@
       "latitude": 51.5055,
       "longitude": -0.0754,
       "website": null
+      ,"category": "Landmark & Bridge",
+      "emoji": "🌉"
     },
     {
       "name": "Planetarium",
@@ -439,6 +525,8 @@
       "latitude": 51.5260,
       "longitude": -0.0347,
       "website": null
+      ,"category": "Planetarium",
+      "emoji": "🌌"
     },
     {
       "name": "Greenwich Market",
@@ -449,6 +537,8 @@
       "latitude": 51.4816,
       "longitude": 0.0103,
       "website": null
+      ,"category": "Market",
+      "emoji": "🛒"
     },
     {
       "name": "Cable Car",
@@ -459,596 +549,812 @@
       "latitude": 51.5004,
       "longitude": 0.0037,
       "website": null
+      ,"category": "Transport & Views",
+      "emoji": "🚡"
     },
     {
       "name": "Kew Gardens",
       "visited": true,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": "Nice restaurants: Raitakrai Thai Richmond, Base Face Pizza (really good, no Coke)",
       "latitude": 51.4816,
       "longitude": -0.2947,
-      "website": null
+      "website": "https://www.kew.org/"
+      ,"category": "Botanic Garden",
+      "emoji": "🌺"
     },
     {
       "name": "London Zoo",
       "visited": true,
       "rainy_day": false,
-      "cost": null,
+      "cost": 3,
       "notes": null,
       "latitude": 51.5362,
       "longitude": -0.1538,
-      "website": null
+      "website": "https://www.londonzoo.org/"
+      ,"category": "Zoo",
+      "emoji": "🦁"
     },
     {
       "name": "Jurassic Afternoon Tea at Ampersand Hotel",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": null,
       "latitude": 51.4949,
       "longitude": -0.1735,
       "website": "https://ampersandhotel.com/eat-drink/apero/jurassic-afternoon-tea/"
+      ,"category": "Afternoon Tea",
+      "emoji": "🫖"
     },
     {
       "name": "Canal boat ride to Camden Market",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5443,
       "longitude": -0.1437,
-      "website": null
+      "website": "https://www.londonwaterbus.com/"
+      ,"category": "Boat Trip",
+      "emoji": "🛥️"
     },
     {
       "name": "Feng Shang - floating Chinese restaurant",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": "by London Zoo",
       "latitude": 51.5362,
       "longitude": -0.1538,
       "website": "https://www.fengshang.co.uk/"
+      ,"category": "Restaurant",
+      "emoji": "🍜"
     },
     {
       "name": "British Museum + Swiss Butter for steak!",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5194,
       "longitude": -0.1270,
-      "website": null
+      "website": "https://www.britishmuseum.org/"
+      ,"category": "Museum",
+      "emoji": "🏛️"
     },
     {
       "name": "Madame Tussauds + Phoenix Palace",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 3,
       "notes": null,
       "latitude": 51.5230,
       "longitude": -0.1547,
-      "website": null
+      "website": "https://www.madametussauds.com/london/"
+      ,"category": "Museum",
+      "emoji": "🏛️"
     },
     {
       "name": "Roof garden - a few options available",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5074,
       "longitude": -0.1278,
-      "website": null
+      "website": "https://www.skygarden.london/"
+      ,"category": "Garden & Views",
+      "emoji": "🌺"
     },
     {
       "name": "Maryon Wilson Animal Park, Charlton",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.4895,
       "longitude": 0.0357,
-      "website": null
+      "website": "https://www.royalgreenwich.gov.uk/info/200199/parks_and_open_spaces/1047/maryon_wilson_animal_park"
+      ,"category": "Animal Park",
+      "emoji": "🐑"
     },
     {
       "name": "Clissold park animal enclosure, Richmond park",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5583,
       "longitude": -0.0804,
-      "website": null
+      "website": "https://www.clissoldpark.com/"
+      ,"category": "Animal Enclosure",
+      "emoji": "🐑"
     },
     {
       "name": "Chin Chin Labs",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": "ice creams, hot chocolate, etc",
       "latitude": 51.5443,
       "longitude": -0.1437,
-      "website": null
+      "website": "https://chinchinicecream.com/"
+      ,"category": "Ice Cream Shop",
+      "emoji": "🍦"
     },
     {
       "name": "Dulwich Park",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.4502,
       "longitude": -0.0851,
-      "website": null
+      "website": "https://www.dulwichparkfriends.org.uk/"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Beckenham Place Park",
       "visited": true,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.4081,
       "longitude": -0.0164,
-      "website": null
+      "website": "https://www.beckenhamplace.org/"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Crystal Palace Park",
       "visited": true,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "Food market on Sundays",
       "latitude": 51.4183,
       "longitude": -0.0719,
-      "website": null
+      "website": "https://crystalpalacepark.org.uk/"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Beddington Park",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.3651,
       "longitude": -0.1428,
-      "website": null
+      "website": "https://www.sutton.gov.uk/beddingtonpark"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Danson Park",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "see Deer?",
       "latitude": 51.4336,
       "longitude": 0.1073,
-      "website": null
+      "website": "https://www.bexley.gov.uk/services/parks-and-open-spaces/danson-park"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Banstead Woods",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.3158,
       "longitude": -0.2006,
-      "website": null
+      "website": "https://www.woodlandtrust.org.uk/visiting-woods/woods/banstead-woods/"
+      ,"category": "Woodland",
+      "emoji": "🌲"
     },
     {
       "name": "Nature trail (by Chipstead station), White",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.3026,
       "longitude": -0.1726,
-      "website": null
+      "website": "https://www.chipsteadvillage.org/"
+      ,"category": "Nature Trail",
+      "emoji": "🥾"
     },
     {
       "name": "Mote Park",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "1hr, Maidstone",
       "latitude": 51.2660,
       "longitude": 0.5408,
-      "website": null
+      "website": "https://www.visitmaidstone.com/things-to-do/mote-park-p24401"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Willows Birds of Prey & Wildlife Trail",
       "visited": true,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": "35 minute drive… By a garden centre, with cafe - nice little trail… about 1 hour",
       "latitude": 51.2756,
       "longitude": 0.2078,
-      "website": null
+      "website": "https://www.willowsbirdsofprey.co.uk/"
+      ,"category": "Wildlife Trail",
+      "emoji": "🦅"
     },
     {
       "name": "Moco museum",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5074,
       "longitude": -0.1278,
-      "website": null
+      "website": "https://mocomuseum.com/london/"
+      ,"category": "Museum",
+      "emoji": "🏛️"
     },
     {
       "name": "Kedi studio",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5074,
       "longitude": -0.1278,
-      "website": null
+      "website": "https://www.kedistudio.com/"
+      ,"category": "Art Studio",
+      "emoji": "🎨"
     },
     {
       "name": "Paddington Bear experience",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5154,
       "longitude": -0.1755,
-      "website": null
+      "website": "https://paddingtonbear.com/experience/"
+      ,"category": "Immersive Experience",
+      "emoji": "🧸"
     },
     {
       "name": "Horizon 22",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5074,
       "longitude": -0.1278,
-      "website": null
+      "website": "https://horizon22.co.uk/"
+      ,"category": "Viewpoint",
+      "emoji": "🌇"
     },
     {
       "name": "Babylon Park",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5074,
       "longitude": -0.1278,
-      "website": null
+      "website": "https://babylonpark.com/london/"
+      ,"category": "Indoor Theme Park",
+      "emoji": "🎢"
     },
     {
       "name": "Regents Park open air theatre",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5313,
       "longitude": -0.1571,
-      "website": null
+      "website": "https://openairtheatre.com/"
+      ,"category": "Theatre",
+      "emoji": "🎭"
     },
     {
       "name": "Frameless London",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5074,
       "longitude": -0.1278,
-      "website": null
+      "website": "https://frameless.com/"
+      ,"category": "Immersive Art",
+      "emoji": "🖼️"
     },
     {
       "name": "Neon Brush Kids",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": "Only certain Saturdays, limited availability",
       "latitude": 51.5074,
       "longitude": -0.1278,
-      "website": null
+      "website": "https://neonbrush.co.uk/"
+      ,"category": "Art Workshop",
+      "emoji": "🎨"
     },
     {
       "name": "Twist Optical Illusion Museum",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5154,
       "longitude": -0.1426,
-      "website": null
+      "website": "https://twistmuseum.com/"
+      ,"category": "Museum",
+      "emoji": "🏛️"
     },
     {
       "name": "Florence Nightingale Museum",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 1,
       "notes": "Small, only around 1 hour visit probably - kids for a quid deals in summer",
       "latitude": 51.5013,
       "longitude": -0.1175,
-      "website": null
+      "website": "https://www.florence-nightingale.co.uk/"
+      ,"category": "Museum",
+      "emoji": "🏛️"
     },
     {
       "name": "GoBoat",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": "Need to book in advance",
       "latitude": 51.5074,
       "longitude": -0.1278,
       "website": "https://goboat.co.uk"
+      ,"category": "Boat Trip",
+      "emoji": "🛥️"
     },
     {
       "name": "London Waterbus",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": "Camden - Little Venice, good to pair with a visit to Paddington Basin / Puppet Barge theatre",
       "latitude": 51.5220,
       "longitude": -0.1621,
       "website": "https://www.londonwaterbus.com/"
+      ,"category": "Boat Trip",
+      "emoji": "🛥️"
     },
     {
       "name": "Go Ape Nets Adventure Alice Holt Forest",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": "Picnic",
       "latitude": 51.1740,
       "longitude": -0.8471,
-      "website": null
+      "website": "https://goape.co.uk/locations/alice-holt-forest"
+      ,"category": "Outdoor Adventure",
+      "emoji": "🧗"
     },
     {
       "name": "Kingston Half Moon Theatre",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": null,
       "latitude": 51.4125,
       "longitude": -0.3067,
-      "website": null
+      "website": "https://www.halfmoon.org.uk/"
+      ,"category": "Theatre",
+      "emoji": "🎭"
     },
     {
       "name": "Unicorn Theatre",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5045,
       "longitude": -0.0924,
-      "website": null
+      "website": "https://www.unicorntheatre.com/"
+      ,"category": "Theatre",
+      "emoji": "🎭"
     },
     {
       "name": "Polka Theatre",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": null,
       "latitude": 51.4154,
       "longitude": -0.2066,
-      "website": null
+      "website": "https://polkatheatre.com/"
+      ,"category": "Theatre",
+      "emoji": "🎭"
     },
     {
       "name": "The Well Walk Theatre",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": null,
       "latitude": 51.5557,
       "longitude": -0.1746,
-      "website": null
+      "website": "https://www.hampsteadtheatre.com/"
+      ,"category": "Theatre",
+      "emoji": "🎭"
     },
     {
       "name": "Lyric Hammersmith (theatre)",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": null,
       "latitude": 51.4925,
       "longitude": -0.2237,
-      "website": null
+      "website": "https://lyric.co.uk/"
+      ,"category": "Theatre",
+      "emoji": "🎭"
     },
     {
       "name": "Hampstead Heath",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5557,
       "longitude": -0.1746,
-      "website": null
+      "website": "https://www.cityoflondon.gov.uk/things-to-do/green-spaces/hampstead-heath"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Wild London Events",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5074,
       "longitude": -0.1278,
       "website": "https://www.wildlondon.org.uk/events"
+      ,"category": "Nature Events",
+      "emoji": "🌿"
     },
     {
       "name": "Camley Street Natural Park",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "Small wildlife canal side trail, near Kings Cross",
       "latitude": 51.5351,
       "longitude": -0.1235,
-      "website": null
+      "website": "https://www.wildlondon.org.uk/nature-reserves/camley-street-natural-park"
+      ,"category": "Nature Reserve",
+      "emoji": "🦆"
     },
     {
       "name": "Buckingham Palace",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 3,
       "notes": "summer only",
       "latitude": 51.5014,
       "longitude": -0.1419,
-      "website": null
+      "website": "https://www.rct.uk/visit/the-state-rooms-buckingham-palace"
+      ,"category": "Palace",
+      "emoji": "🏰"
     },
     {
       "name": "Leeds Castle",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 3,
       "notes": null,
       "latitude": 51.2487,
       "longitude": 0.6299,
-      "website": null
+      "website": "https://www.leeds-castle.com/"
+      ,"category": "Castle",
+      "emoji": "🏰"
     },
     {
       "name": "British Library - story explorers",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 1,
       "notes": null,
       "latitude": 51.5297,
       "longitude": -0.1276,
-      "website": null
+      "website": "https://www.bl.uk/events/story-explorers"
+      ,"category": "Library",
+      "emoji": "📚"
     },
     {
       "name": "Lullingstone Country Park",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.3849,
       "longitude": 0.1941,
-      "website": null
+      "website": "https://www.kent.gov.uk/leisure-and-community/kent-country-parks/lullingstone-country-park"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Tyland Barn Nature Park & Gardens",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "50 mins drive",
       "latitude": 51.3083,
       "longitude": 0.4667,
-      "website": null
+      "website": "https://www.kentwildlifetrust.org.uk/nature-reserves/tyland-barn"
+      ,"category": "Nature Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Trosley Country Park",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "45 mins drive",
       "latitude": 51.3258,
       "longitude": 0.3892,
-      "website": null
+      "website": "https://www.kent.gov.uk/leisure-and-community/kent-country-parks/trosley-country-park"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Shorne Woods Country Park",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "45 mins drive",
       "latitude": 51.4169,
       "longitude": 0.3892,
-      "website": null
+      "website": "https://www.kent.gov.uk/leisure-and-community/kent-country-parks/shorne-woods-country-park"
+      ,"category": "Park & Gardens",
+      "emoji": "🌳"
     },
     {
       "name": "Carshalton",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.3681,
       "longitude": -0.1661,
       "website": "https://www.secretcarshalton.com/7-things-to-do-on-an-afternoon-stroll-around-carshalton/"
+      ,"category": "Town & Walks",
+      "emoji": "🚶"
     },
     {
       "name": "Carshalton - Wilderness Island Nature Reserve",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.3681,
       "longitude": -0.1661,
       "website": "https://www.secretcarshalton.com/a-walk-around-the-wilderness-island-nature-reserve/"
+      ,"category": "Nature Reserve",
+      "emoji": "🦆"
     },
     {
       "name": "Riverhill Himalayan Gardens",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": null,
       "latitude": 51.2757,
       "longitude": 0.2078,
       "website": "https://www.riverhillgardens.co.uk/"
+      ,"category": "Gardens",
+      "emoji": "🌺"
     },
     {
       "name": "Box Hill",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": null,
       "latitude": 51.2513,
       "longitude": -0.3302,
-      "website": null
+      "website": "https://www.nationaltrust.org.uk/visit/surrey/box-hill"
+      ,"category": "Hill & Views",
+      "emoji": "⛰️"
     },
     {
       "name": "Wakehurst Place (Kew Gardens down south)",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": "50 mins drive",
       "latitude": 51.0701,
       "longitude": -0.0716,
-      "website": null
+      "website": "https://www.kew.org/wakehurst"
+      ,"category": "Botanic Garden",
+      "emoji": "🌺"
     },
     {
       "name": "Tilgate Park",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 1,
       "notes": "lots to do, and small zoo - Crawley, 55 mins drive",
       "latitude": 51.1204,
       "longitude": -0.2111,
-      "website": null
+      "website": "https://www.crawley.gov.uk/tilgate-park"
+      ,"category": "Park & Zoo",
+      "emoji": "🦁"
     },
     {
       "name": "Hever Castle",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": "40 mins drive or 1.5 hours by tram/train",
       "latitude": 51.1944,
       "longitude": 0.1095,
-      "website": null
+      "website": "https://www.hevercastle.co.uk/"
+      ,"category": "Castle",
+      "emoji": "🏰"
     },
     {
       "name": "Spa Valley Railway",
       "visited": false,
-      "rainy_day": false,
-      "cost": null,
+      "rainy_day": true,
+      "cost": 2,
       "notes": "50 mins drive",
       "latitude": 51.1542,
       "longitude": 0.2320,
-      "website": null
+      "website": "https://www.spavalleyrailway.co.uk/"
+      ,"category": "Railway",
+      "emoji": "🚂"
     },
     {
       "name": "High Rocks",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": "50 mins drive",
       "latitude": 51.1542,
       "longitude": 0.2320,
-      "website": null
+      "website": "https://www.highrocks.co.uk/"
+      ,"category": "Nature & Views",
+      "emoji": "🪨"
     },
     {
       "name": "Nymans",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": "50 mins drive",
       "latitude": 51.0142,
       "longitude": -0.1716,
-      "website": null
+      "website": "https://www.nationaltrust.org.uk/visit/sussex/nymans"
+      ,"category": "Gardens",
+      "emoji": "🌺"
     },
     {
       "name": "Polesden Lacey",
       "visited": false,
       "rainy_day": false,
-      "cost": null,
+      "cost": 2,
       "notes": "55 mins drive",
       "latitude": 51.2678,
       "longitude": -0.3967,
-      "website": null
+      "website": "https://www.nationaltrust.org.uk/visit/surrey/polesden-lacey"
+      ,"category": "Historic House & Gardens",
+      "emoji": "🏰"
+    },
+    {
+      "name": "ZSL Whipsnade Zoo",
+      "visited": false,
+      "rainy_day": false,
+      "cost": 3,
+      "notes": null,
+      "latitude": 51.5551,
+      "longitude": -0.5546,
+      "website": "https://www.zsl.org/whipsnade-zoo"
+      ,"category": "Zoo",
+      "emoji": "🦁"
+    },
+    {
+      "name": "Chessington World of Adventures",
+      "visited": false,
+      "rainy_day": false,
+      "cost": 3,
+      "notes": null,
+      "latitude": 51.3493,
+      "longitude": -0.3145,
+      "website": "https://www.chessington.com/"
+      ,"category": "Theme Park & Zoo",
+      "emoji": "🎢"
+    },
+    {
+      "name": "Legoland Windsor",
+      "visited": false,
+      "rainy_day": false,
+      "cost": 3,
+      "notes": null,
+      "latitude": 51.4634,
+      "longitude": -0.6546,
+      "website": "https://www.legoland.co.uk/"
+      ,"category": "Theme Park",
+      "emoji": "🎢"
+    },
+    {
+      "name": "Thorpe Park",
+      "visited": false,
+      "rainy_day": false,
+      "cost": 3,
+      "notes": null,
+      "latitude": 51.4064,
+      "longitude": -0.5122,
+      "website": "https://www.thorpepark.com/"
+      ,"category": "Theme Park",
+      "emoji": "🎢"
+    },
+    {
+      "name": "Go Ape Battersea",
+      "visited": false,
+      "rainy_day": false,
+      "cost": 2,
+      "notes": null,
+      "latitude": 51.4707,
+      "longitude": -0.1561,
+      "website": "https://goape.co.uk/locations/battersea-park"
+      ,"category": "Outdoor Adventure",
+      "emoji": "🧗"
+    },
+    {
+      "name": "KidZania London",
+      "visited": false,
+      "rainy_day": true,
+      "cost": 3,
+      "notes": null,
+      "latitude": 51.5107,
+      "longitude": -0.2245,
+      "website": "https://kidzania.co.uk/"
+      ,"category": "Children's Activity",
+      "emoji": "🧒"
+    },
+    {
+      "name": "Sea Life London Aquarium",
+      "visited": false,
+      "rainy_day": true,
+      "cost": 3,
+      "notes": null,
+      "latitude": 51.5027,
+      "longitude": -0.1196,
+      "website": "https://www.visitsealife.com/london/"
+      ,"category": "Aquarium",
+      "emoji": "🐠"
+    },
+    {
+      "name": "Madame Tussauds London",
+      "visited": false,
+      "rainy_day": true,
+      "cost": 3,
+      "notes": null,
+      "latitude": 51.5230,
+      "longitude": -0.1549,
+      "website": "https://www.madametussauds.com/london/"
+      ,"category": "Museum",
+      "emoji": "🏛️"
     }
-    ]
+  ]
 }
